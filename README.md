@@ -1,0 +1,1 @@
+This repository contains a bash script with a bug and its corrected version. The original script incorrectly identifies the largest number when negative numbers or non-numeric input is provided. The corrected script addresses these issues, providing robust and accurate results.  The bug is in the way the script handles negative numbers and non-numeric input.
